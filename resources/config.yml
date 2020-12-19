@@ -1,16 +1,9 @@
----
-#   _____                    _   _           _
-#  /  ___|                  | | | |         | |
-#  \ `--.  ___ ___  _ __ ___| |_| |_   _  __| |
-#   `--. \/ __/ _ \| '__/ _ \  _  | | | |/ _` |
-#  /\__/ / (_| (_) | | |  __/ | | | |_| | (_| |
-#  \____/ \___\___/|_|  \___\_| |_/\__,_|\__,_|
+
+# Server Name:§l§3Angkasa§6§lNetwork
 #
-# ScoreHud, a Scoreboard plugin for PocketMine-MP
-# Copyright (c) 2020 Ifera  < https://github.com/Ifera >
-#
-# Discord: Ifera#3717
-# Twitter: ifera_tr
+# Money:1000
+# Rank:Bronze
+# Time:True
 #
 # This software is distributed under "GNU General Public License v3.0".
 # This license allows you to use it and/or modify it but you are not at
@@ -49,8 +42,8 @@ time:
   # false - Follow the server/machine time without changes.
   # For a list of timezones you can visit:
   # https://secure.php.net/manual/timezones.php
-  # Example: "America/New_York" - This will set NewYork's time.
-  zone: false
+  # Example: "indonesia,jakarta" - This will set Jakarta time.
+  zone: true
 
   format:
     # Set the time format that you want to display.
